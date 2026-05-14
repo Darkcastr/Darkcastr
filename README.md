@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm William I. Lapeña 👋
 
-<!--
-**Darkcastr/Darkcastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I started exploring technology in 2020 and have been passionate about learning ever since. I initially pursued a **BS Computer Science** degree, where I developed a strong foundation in programming and analytical thinking. Later, I shifted to **Information Technology** to focus more on areas that align with my interests, particularly **cybersecurity** and **data management**.  
 
-Here are some ideas to get you started:
+I enjoy solving technical problems, learning new technologies, and building practical solutions through programming and database systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+### Bachelor of Science in Computer Science  
+2020 - 2024 *(Undergraduate)*
+
+### Bachelor of Science in Information Technology  
+2025 - Present
+
+---
+
+## 📜 Certifications
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/4fa705632ad14664ac9c15401f05a9c4#)
+- [Data Analytics with AI](https://www.sololearn.com/certificates/CC-646K3MYH)
+
+---
+
+## 💻 Skill Sets
+
+### Programming Languages
+- Java
+- Python
+- PHP
+
+### Database
+- IBM DB2 Cloud
+
+### Tools & Technologies
+- Lucidchart
+- PyCharm
+- Eclipse
+- IntelliJ IDEA
+- Visual Studio Code
+
+---
+
+## 📫 You May Reach Me At
+- Email: williamlapena31501@gmail.com
